@@ -21,11 +21,11 @@
             <hr>
             <div class="text-center mb-8">
                 <p>G-mail:</p>
-                <input type="email" name="gm1" placeholder=".....?" required>
+                <input class="text-center" type="email" name="gm1" placeholder=".....?" required>
                 <p>Account:</p>
-                <input type="text" name="tk1" placeholder=".....?" required>
+                <input class="text-center" type="text" name="tk1" placeholder=".....?" required>
                 <p>Pass:</p>
-                <input type="text" name="mk1" placeholder=".....?" required>
+                <input class="text-center" type="text" name="mk1" placeholder=".....?" required>
             </div>
             <div class="flex justify-center mb-6">
                 <input class="bg-black text-white w-36 h-8 hover:rounded-md duration-300 border-none" type="submit" name="info1" value="Sign in">
@@ -37,13 +37,13 @@
             <hr>
             <div class="text-center mb-8">
                 <p>G-mail:</p>
-                <input type="email" name="gm2" placeholder=".....?" required>
+                <input class="text-center" type="email" name="gm2" placeholder=".....?" required>
                 <p>cre-Account:</p>
-                <input type="text" name="tk2" placeholder=".....?" required>
+                <input class="text-center" type="text" name="tk2" placeholder=".....?" required>
                 <p>cre-Pass:</p>
-                <input type="text" name="mk2" placeholder=".....?" required>
+                <input class="text-center" type="text" name="mk2" placeholder=".....?" required>
                 <p>retype-Pass:</p>
-                <input type="text" name="mk22" placeholder=".....?" required>
+                <input class="text-center" type="text" name="mk22" placeholder=".....?" required>
             </div>
             <div class="flex justify-center mb-6">
             <input class="bg-black text-white w-36 h-8 hover:rounded-md duration-300 border-none" type="submit" name="info2" value="Sign up">
